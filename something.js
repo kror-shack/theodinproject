@@ -1,0 +1,1 @@
+const contribution = document.getElementById("nothing-to-contribute")
